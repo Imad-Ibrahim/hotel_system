@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6ae0243-2901-4897-9ac4-e84646414533": {
+      "ProjectGuid": "f6ae0243-2901-4897-9ac4-e84646414533",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 0
+    },
+    "b5d49d6a-d06b-4241-a965-54cd639551aa": {
+      "ProjectGuid": "b5d49d6a-d06b-4241-a965-54cd639551aa",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 1
+    },
+    "9c41d972-40d1-419b-b947-d523b6076f0c": {
+      "ProjectGuid": "9c41d972-40d1-419b-b947-d523b6076f0c",
+      "DisplayName": "WindowsClient",
+      "ColorIndex": 2
+    },
+    "b56a092a-c91f-4987-8edf-369d9aa8b976": {
+      "ProjectGuid": "b56a092a-c91f-4987-8edf-369d9aa8b976",
+      "DisplayName": "BusinessEntities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

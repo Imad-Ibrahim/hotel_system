@@ -1,0 +1,18 @@
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\BusinessEntities\obj\Debug\BusinessEntities.pdb

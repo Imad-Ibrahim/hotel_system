@@ -1,0 +1,27 @@
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\ProjectWorkingCopy\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\k00253361\OneDrive - Limerick Institute Of Technology\Year 3\Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\K00252722\OneDrive - Limerick Institute Of Technology\Year 3\Software Development Project\Full Project\BloomfieldHotelSystem\WindowsClient\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
